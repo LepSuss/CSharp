@@ -1,0 +1,16 @@
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.exe
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.dll
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.csproj.AssemblyReference.cache
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.dll
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache

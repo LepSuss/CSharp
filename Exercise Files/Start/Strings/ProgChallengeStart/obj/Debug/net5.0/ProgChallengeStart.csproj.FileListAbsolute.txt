@@ -1,0 +1,16 @@
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.csproj.AssemblyReference.cache
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfoInputs.cache
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfo.cs
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.csproj.CoreCompileInputs.cache
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.exe
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.deps.json
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.json
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.dev.json
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.dll
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ref\ProgChallengeStart.dll
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.pdb
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.dll
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ref\ProgChallengeStart.dll
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.pdb
+C:\Users\35850\Desktop\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.genruntimeconfig.cache
